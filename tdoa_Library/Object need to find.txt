@@ -1,3 +1,0 @@
-TaskHandle_t
-SemaphoreHandle_t
-QueueHandle_t
